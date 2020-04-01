@@ -25,17 +25,6 @@ print(a+b)
 #Types: 정수 int 실수 float 문자 str 참/거짓 bool 리스트 list 딕셔너리 dict
 #실수 a=0.3, 문자 a="Hi"  참/거짓 a=True 리스트 a=[1,3,4]
 
-#형변환
-a=1000
-print(type(a))
-b="원"
-print(type(b))
-c=True
-print(type(c))
-d=[1,2,3]
-print(type(d))
-
-print(str(a)+b)   #형변환
 
 #input 입력 함수
 #name=input("이름을 입력해주세요: ")
