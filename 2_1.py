@@ -1,10 +1,7 @@
+#아 너무 힘들다
 print("Hello World!")
 print(3)
-print(-11)
-
-a="Hellp World!"
-b=3
-c=-11
+print(-11) #이거 맞음?
 
 print(a)
 print(b)
@@ -18,15 +15,6 @@ print(a+b)
 #+,-,%,/,//(실수나누기)
 
 c=a/b
-print(c)
-
-#문자의 연산: +,*만 가능
-a="Hello"
-b="World"
-print(a+b)
-c=a*3
-print(c)
-
 #숫자+문자
 a=1000
 a=str(a)
